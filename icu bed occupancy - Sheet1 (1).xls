@@ -1,0 +1,5 @@
+HospitalName,Day,Total ICU Bed,Available Bed,Patient admitted,Pateint discharged,Avg. Patient Age
+3,304,76,25,10,15,45
+2,502,100,45,23,15,70
+6,120,89,36,10,2,25
+3,140,76,35,32,12,60
